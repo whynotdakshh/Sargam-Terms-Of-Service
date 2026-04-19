@@ -1,16 +1,16 @@
-# 📜 Sangam Terms of Service
+# 📜 Sargam Terms of Service
 
 _Last Updated: April 19, 2026_
 
-These Terms of Service ("Terms") govern your use of **Sangam**, a Discord music bot.
+These Terms of Service ("Terms") govern your use of **Sargam**, a Discord music bot.
 
-By inviting or using Sangam, you agree to these Terms.
+By inviting or using Sargam, you agree to these Terms.
 
 ---
 
 ## 📌 Acceptance of Terms
 
-By using Sangam, you confirm that:
+By using Sargam, you confirm that:
 - You comply with Discord’s Terms of Service
 - You are responsible for your usage of the bot
 
@@ -18,7 +18,7 @@ By using Sangam, you confirm that:
 
 ## ⚙️ Description of Service
 
-Sangam provides:
+Sargam provides:
 
 - Music playback functionality
 - Queue and track management
@@ -41,7 +41,7 @@ You agree NOT to:
 
 ## 🔒 Privacy
 
-Your use of Sangam is also governed by our Privacy Policy.
+Your use of Sargam is also governed by our Privacy Policy.
 
 We only collect data necessary for functionality.
 
@@ -49,7 +49,7 @@ We only collect data necessary for functionality.
 
 ## ⚠️ Service Availability
 
-- Sangam is provided **"as-is"**
+- Sargam is provided **"as-is"**
 - We do not guarantee uptime or error-free service
 - The bot may be unavailable due to maintenance or updates
 
@@ -79,7 +79,7 @@ We are not responsible for:
 
 We may update these Terms at any time.
 
-Continued use of Sangam after updates means you accept the revised Terms.
+Continued use of Sargam after updates means you accept the revised Terms.
 
 ---
 
@@ -88,7 +88,7 @@ Continued use of Sangam after updates means you accept the revised Terms.
 For support or legal inquiries:
 
 - Developer: [Dakshhh](http://discord.com/users/1304640723458457712)
-- Discord: [Sangam HQ](https://discord.gg/dtm6RcqGEy)
+- Discord: [Sargam HQ](https://discord.gg/dtm6RcqGEy)
 
 ---
 
